@@ -1,8 +1,0 @@
-lion
-fish
-horse
-snake
-turtles
-dog
-cat
-app
