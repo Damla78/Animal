@@ -1,6 +1,0 @@
-cats
-dogs
-birds
-cats
-dogs
-birds
